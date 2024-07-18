@@ -1,0 +1,15 @@
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/model/Student.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/model/CourseMaterial.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/controllers/StudentController.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/controllers/StudentRestController.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/model/Course.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/repositories/TeacherRepository.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/model/Address.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/model/Teacher.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/repositories/CourseRepository.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/bootstrap/BootstrapData.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/repositories/CourseMaterialRepository.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/DemoApplication.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/repositories/StudentRepository.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/services/StudentService.java
+/Users/antic/Downloads/demo/src/main/java/rs/raf/demo/services/IService.java

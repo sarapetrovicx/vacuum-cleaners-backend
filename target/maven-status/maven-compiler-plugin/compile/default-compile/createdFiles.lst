@@ -1,0 +1,15 @@
+rs/raf/demo/repositories/CourseMaterialRepository.class
+rs/raf/demo/model/Address.class
+rs/raf/demo/model/CourseMaterial.class
+rs/raf/demo/controllers/StudentController.class
+rs/raf/demo/model/Course.class
+rs/raf/demo/model/Student.class
+rs/raf/demo/controllers/StudentRestController.class
+rs/raf/demo/repositories/CourseRepository.class
+rs/raf/demo/bootstrap/BootstrapData.class
+rs/raf/demo/services/IService.class
+rs/raf/demo/repositories/StudentRepository.class
+rs/raf/demo/DemoApplication.class
+rs/raf/demo/repositories/TeacherRepository.class
+rs/raf/demo/model/Teacher.class
+rs/raf/demo/services/StudentService.class
